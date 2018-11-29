@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\admin\source\repos\webserver\webserver\source.cpp(47): warning C4101: 'tmp': unreferenced local variable
+  WebServer.vcxproj -> C:\Users\Admin\source\repos\WebServer\Debug\WebServer.exe

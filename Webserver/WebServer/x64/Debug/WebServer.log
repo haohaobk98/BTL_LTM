@@ -1,0 +1,26 @@
+﻿  Source.cpp
+c:\users\ki thuat 88\desktop\btl_ltm\webserver\webserver\source.cpp(46): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ki thuat 88\desktop\btl_ltm\webserver\webserver\source.cpp(53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ki thuat 88\desktop\btl_ltm\webserver\webserver\source.cpp(61): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ki thuat 88\desktop\btl_ltm\webserver\webserver\source.cpp(78): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ki thuat 88\desktop\btl_ltm\webserver\webserver\source.cpp(105): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ki thuat 88\desktop\btl_ltm\webserver\webserver\source.cpp(118): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ki thuat 88\desktop\btl_ltm\webserver\webserver\source.cpp(119): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ki thuat 88\desktop\btl_ltm\webserver\webserver\source.cpp(139): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ki thuat 88\desktop\btl_ltm\webserver\webserver\source.cpp(170): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ki thuat 88\desktop\btl_ltm\webserver\webserver\source.cpp(172): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ki thuat 88\desktop\btl_ltm\webserver\webserver\source.cpp(178): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ki thuat 88\desktop\btl_ltm\webserver\webserver\source.cpp(179): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ki thuat 88\desktop\btl_ltm\webserver\webserver\source.cpp(202): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ki thuat 88\desktop\btl_ltm\webserver\webserver\source.cpp(204): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ki thuat 88\desktop\btl_ltm\webserver\webserver\source.cpp(212): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ki thuat 88\desktop\btl_ltm\webserver\webserver\source.cpp(216): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ki thuat 88\desktop\btl_ltm\webserver\webserver\source.cpp(218): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ki thuat 88\desktop\btl_ltm\webserver\webserver\source.cpp(226): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ki thuat 88\desktop\btl_ltm\webserver\webserver\source.cpp(231): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ki thuat 88\desktop\btl_ltm\webserver\webserver\source.cpp(244): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ki thuat 88\desktop\btl_ltm\webserver\webserver\source.cpp(247): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ki thuat 88\desktop\btl_ltm\webserver\webserver\source.cpp(56): warning C4101: 'tmp': unreferenced local variable
+c:\users\ki thuat 88\desktop\btl_ltm\webserver\webserver\source.cpp(108): warning C4101: 'file': unreferenced local variable
+c:\users\ki thuat 88\desktop\btl_ltm\webserver\webserver\source.cpp(108): warning C4101: 'buf_search': unreferenced local variable
+  WebServer.vcxproj -> C:\Users\Ki Thuat 88\Desktop\BTL_LTM\Webserver\x64\Debug\WebServer.exe
